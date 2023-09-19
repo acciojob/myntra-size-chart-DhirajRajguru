@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+#first{
+	background-color:yellowgreen;
+	border:10px dashed yellow;
+}
+table{
+	border:10px solid black;
+/* 	border-collapse: collapse; */
+	
+}
+
+#head{
+	background-color:brown;
+	border:10px solid yellow;
+	
+}
